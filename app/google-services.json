@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1022367704650",
+    "project_id": "anivoice-3a3ed",
+    "storage_bucket": "anivoice-3a3ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022367704650:android:bb114f616a5cee1108a8b3",
+        "android_client_info": {
+          "package_name": "com.yash.anivoice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022367704650-r5lcld5cajiki535q6689o046r11rlbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGdcfOKVjfeFSFup0J1J3Jxd_Okdct7HU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022367704650-r5lcld5cajiki535q6689o046r11rlbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

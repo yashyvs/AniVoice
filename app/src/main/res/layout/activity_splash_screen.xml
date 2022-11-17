@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SplashScreen"
+    android:background="@color/light_blue"
+    android:orientation="vertical">
+
+    <androidx.constraintlayout.utils.widget.ImageFilterView
+        android:id="@+id/dogImage"
+        android:layout_width="match_parent"
+        android:layout_height="550dp"
+        android:padding="30dp"
+        android:src="@drawable/dog">
+
+    </androidx.constraintlayout.utils.widget.ImageFilterView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="40dp"
+        android:text="AniVoice"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textStyle="italic">
+    </TextView>
+
+    <androidx.constraintlayout.utils.widget.ImageFilterView
+        android:id="@+id/arrowbtn"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="30dp"
+        android:src="@drawable/arrow">
+
+    </androidx.constraintlayout.utils.widget.ImageFilterView>
+
+
+</LinearLayout>
