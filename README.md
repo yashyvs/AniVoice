@@ -20,8 +20,15 @@ Why this APP ???
 - Location based results
 
 ## Technology Used
-We have used Android Studio, FIrebase and FIGMA
+We have used :
+- Android Studio, 
+- FIrebase and, 
+- FIGMA
 
+## Achievement 
+1st Runner up Real-World Problem solving @BinaryHacks'22 
+
+## Links
 Prototype link : https://www.figma.com/proto/gcuA4QCPSsxKydsR7wRaaU/AniVoice?node-id=4%3A338&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A338
 
 ![Slide1](https://user-images.githubusercontent.com/115401171/202483019-f52668b7-97ed-4b25-af66-817cb4375f19.PNG)
